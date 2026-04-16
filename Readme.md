@@ -12,7 +12,7 @@ A modern, responsive **Full Stack Developer & BI Developer portfolio website** s
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Bharath Gangireddy** — a passionate **Full Stack Developer & Business Intelligence (BI) Developer**.
+Hi, I’m **Bharath Simha Reddy Gangireddy** — a passionate **Full Stack Developer & Business Intelligence (BI) Developer**.
 
 * 💻 Skilled in React.js, Node.js, and modern web technologies
 * 📊 Experienced in building Power BI dashboards for data-driven insights
@@ -91,9 +91,7 @@ Hi, I’m **Bharath Gangireddy** — a passionate **Full Stack Developer & Busin
 ```
 portfolio/
 │── index.html
-│── style.css
-│── script.js
-│── assets/
+│── Readme.md
 ```
 
 ---
@@ -104,11 +102,6 @@ Deployed using **Vercel**
 
 ---
 
-## 📸 Screenshot
-
-(Add your portfolio screenshot here)
-
----
 
 ## 📬 Contact
 
