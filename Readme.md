@@ -107,8 +107,7 @@ Deployed using **Vercel**
 
 * 📧 Email: [bharathgangireddy15@gmail.com](mailto:bharathgangireddy15@gmail.com)
 * 💻 GitHub: https://github.com/BharathGangireddy
-* 🔗 LinkedIn: https://linkedin.com/in/bharath-simha-reddy-gangireddy-68005b219/
-
+* 🔗 LinkedIn:https://www.linkedin.com/in/bharath-gangireddy/
 ---
 
 ## ⭐ Acknowledgements
